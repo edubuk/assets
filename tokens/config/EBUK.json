@@ -1,0 +1,22 @@
+{
+  "id": "0x8D1A92BA51b469aD55720546fa38bA365112d067",
+  "symbol": "EBUK",
+  "name": "Edubuk",
+  "description": "BlocksScan's XRC20 token",
+  "website": "https://edubukeseal.com",
+  "auditReport": {
+    "SlowMist": ""
+  },
+  "communities": {
+    "email": "support@edubuk.com",
+    "telegram": "https://t.me/edubukofficial",
+    "reddit": "https://www.reddit.com/r/",
+    "medium": "https://medium.com/",
+    "youtube": "https://blocksscan.io",
+    "twitter": "https://twitter.com/edubuktrust",
+    "facebook": "https://www.facebook.com/",
+    "github": "https://github.com/edubuk",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/",
+    "coingecko": "https://www.coingecko.com/en/coins/"
+  }
+}
